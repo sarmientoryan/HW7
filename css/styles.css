@@ -62,8 +62,9 @@ footer {
 /* Education
 ------------------------------------*/
 .edu {
-    background-color: #FFB5D6;
+    background-color: #ffb5d6;
 }
+/*h1,h2,h3 p*/
 h1 {
     font-size: 50px;
     margin: 0;
@@ -74,6 +75,7 @@ h2 {
 }
 h3 {
     font-size: 25px;
+    
 }
 p {
     font-size: 20px;
