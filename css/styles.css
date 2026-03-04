@@ -1,0 +1,85 @@
+/* Color Palette
+# - color 1
+# - color 2
+# - color 3
+# - color 4
+*/
+
+/* Global styles 
+------------------------------------*/
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: #BF70FF;
+    margin: 0;
+}
+.content-wrap {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 25px;
+    overflow: hidden;
+}
+.column-narrow {
+    width: 30%; 
+     float: left; 
+    padding-right: 3%; 
+    min-height: 175px;
+}
+.column-wide {
+    width: 70%; 
+    float: left;
+    min-height: 225px;
+}
+
+
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background-color: #8a1fe2; 
+}
+footer {
+    text-align: center;
+    background-color: #d4a3eb; 
+}
+.contact-info a{
+    padding: 10px; 
+    display: inline-block;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work_exp {
+    background-color:#FFB5D6
+}
+
+/* Education
+------------------------------------*/
+.edu {
+    background-color: #FFB5D6;
+}
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+h2 {
+    font-size: 30px;
+    margin: 0;
+}
+h3 {
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+}
+/*img*/
+.profile-img {
+    border-radius:50%;
+    
+}
